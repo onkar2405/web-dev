@@ -28,6 +28,9 @@ hr{
 	border-color: grey;
 }
 
+ul{
+    list-style-type: none;
+}
 .programming{
   color: #66BFBF;
   font-family: 'Montserrat', sans-serif;
